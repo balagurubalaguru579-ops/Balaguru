@@ -62,35 +62,108 @@ I'm <b>Balaguru E</b>, a passionate <b>B.Tech Information Technology</b> student
 
 # 🚀 Featured Projects
 
-## 🌾 AI Smart Farming Assistant
+## 🌾 Krishi Mithra – AI Smart Farming Assistant
 
-An intelligent agriculture platform that helps farmers identify crop diseases, detect pests, receive weather-based insights, and interact with an AI-powered multilingual assistant.
+An intelligent agriculture platform designed to empower farmers with AI-driven crop management and decision support. The platform combines computer vision, weather intelligence, and multilingual AI assistance to simplify modern farming.
 
-**Tech Stack**
+### ✨ Key Features
+
+- 🌱 Crop Recommendation System
+- 🦠 Plant Disease Detection using AI
+- 🐛 Pest Identification through Computer Vision
+- 🌦️ Live Weather Forecast Integration
+- 💧 Fertilizer & Pesticide Suggestions
+- 🤖 AI Chatbot for Farming Guidance
+- 🌍 Multilingual Support
+- 📈 Personalized Farming Insights
+
+### 🛠 Tech Stack
 
 `Python` • `React` • `Node.js` • `OpenCV` • `TensorFlow` • `REST APIs` • `MySQL`
+
+🔗 **Live Demo:** https://balaguru-portfolio.vercel.app/
 
 ---
 
 ## 🧠 Project Hub – AI Knowledge Repository
 
-A centralized knowledge repository designed to preserve student project insights using semantic search and knowledge graph technologies for efficient information retrieval.
+A centralized AI-powered platform that stores, organizes, and retrieves student project knowledge. It helps future developers understand previous projects, common mistakes, implementation strategies, and reusable resources using semantic search.
 
-**Tech Stack**
+### ✨ Key Features
 
-`Python` • `LLMs` • `Knowledge Graph` • `React` • `REST APIs`
+- 📄 Intelligent Document Upload
+- 🔍 Semantic Search
+- 🧠 Knowledge Graph Integration
+- 📚 AI-based Project Recommendations
+- 📝 Mistake & Solution Repository
+- ⚡ Fast Context-Aware Search
+- 🔗 Project Relationship Mapping
+
+### 🛠 Tech Stack
+
+`Python` • `React` • `LLMs` • `Knowledge Graph` • `REST APIs`
 
 ---
 
 ## 🏥 Imaging Lab Report Explainer
 
-A healthcare-focused application that transforms complex imaging laboratory reports into structured, easy-to-understand explanations using AI-assisted backend processing.
+A healthcare-oriented application that transforms complex medical imaging reports into patient-friendly explanations without providing diagnosis or treatment. Built to improve communication between healthcare professionals and patients.
 
-**Tech Stack**
+### ✨ Key Features
+
+- 📑 Medical Report Upload
+- 🤖 AI-Powered Report Simplification
+- 🧾 Easy-to-Understand Explanations
+- 💬 Interactive AI Assistant
+- 🔒 Secure Backend APIs
+- 📂 Structured Report Generation
+
+### 🛠 Tech Stack
 
 `Python` • `FastAPI` • `Flask` • `LLM API`
 
 ---
+
+## 🎓 SharkByte – Smart Quiz & Assessment Platform
+
+A modern online assessment platform designed for educational institutions. It enables administrators to create quizzes, manage students, monitor results, and generate reports, while students can participate in assessments through a clean and interactive interface.
+
+### ✨ Key Features
+
+- 👨‍🏫 Admin Dashboard
+- 📝 Quiz Creation & Management
+- 👨‍🎓 Student Login System
+- 📊 Live Leaderboard
+- 📥 Excel Import & Export
+- 📈 Performance Analytics
+- 📱 Responsive UI
+- 🔐 Secure Authentication
+
+### 🛠 Tech Stack
+
+`React` • `Node.js` • `Express` • `MongoDB` • `REST APIs`
+
+---
+
+## 🌐 Personal Portfolio
+
+A premium portfolio website highlighting my projects, technical skills, certifications, achievements, and development journey with modern animations and responsive design.
+
+### ✨ Highlights
+
+- 🎨 Premium Responsive Design
+- ⚡ Smooth Animations
+- 📂 Project Showcase
+- 🏆 Achievements Section
+- 📜 Certifications
+- 📱 Mobile Friendly
+- 🌐 SEO Optimized
+
+### 🛠 Tech Stack
+
+`React` • `TypeScript` • `Tailwind CSS` • `Vite` • `Vercel`
+
+🔗 **Portfolio:** https://balaguru-portfolio.vercel.app/
 
 # 🏅 Certifications
 
