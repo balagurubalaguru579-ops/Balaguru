@@ -82,6 +82,8 @@ An intelligent agriculture platform designed to support farmers with AI-driven c
 
 `Python` • `React` • `Node.js` • `Express` • `OpenCV` • `TensorFlow` • `REST APIs` • `MySQL` • `Weather API`
 
+🔗 **Link:** https://krishi-mithra-ruddy.vercel.app/
+
 ---
 
 ## 🧠 Project Hub – AI Knowledge Repository System
