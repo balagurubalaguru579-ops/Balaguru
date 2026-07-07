@@ -10,15 +10,13 @@ I'm <b>Balaguru E</b>, a passionate <b>B.Tech Information Technology</b> student
 
 # 👨‍💻 Who Am I?
 
-🎓 Third-Year B.Tech Information Technology Student
-
-🧠 AI & Software Developer passionate about building impactful products
-
-💡 Interested in Artificial Intelligence, Computer Vision, Generative AI, and Backend Engineering
-
-🌱 Currently exploring scalable backend systems, intelligent APIs, and production-ready applications
-
-🎯 Goal: Become a Software Engineer specializing in AI-driven solutions
+- 🎓 Third-Year B.Tech Information Technology Student
+- 🧠 AI & Software Developer passionate about building impactful products
+- 💡 Interested in Artificial Intelligence, Computer Vision, Generative AI, and Backend Engineering
+- 💼 Frontend Developer Intern at SwiftAnt IT Solutions India Pvt. Ltd
+- 🌱 Currently exploring scalable backend systems, intelligent APIs, and production-ready applications
+- 🎯 Goal: Become a Software Engineer specializing in AI-driven solutions
+- 🌐 Portfolio: https://balaguru-portfolio.vercel.app/
 
 ---
 
@@ -26,9 +24,9 @@ I'm <b>Balaguru E</b>, a passionate <b>B.Tech Information Technology</b> student
 
 <div align="center">
 
-### 💻 Programming
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,sql&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript&perline=4"/>
 
 ### 🌐 Frontend Development
 
@@ -42,21 +40,23 @@ I'm <b>Balaguru E</b>, a passionate <b>B.Tech Information Technology</b> student
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2"/>
 
-### 🛠 Tools
+### 🛠 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=5"/>
 
 </div>
 
 ### 🤖 AI & Emerging Technologies
 
-- Large Language Models (LLMs)
+- Large Language Models
 - Prompt Engineering
+- OpenAI API
 - OpenCV
 - TensorFlow
-- REST APIs
+- REST API Development
 - Computer Vision
 - Knowledge Graphs
+- API Key Management
 
 ---
 
@@ -64,100 +64,106 @@ I'm <b>Balaguru E</b>, a passionate <b>B.Tech Information Technology</b> student
 
 ## 🌾 Krishi Mithra – AI Smart Farming Assistant
 
-An intelligent agriculture platform designed to empower farmers with AI-driven crop management and decision support. The platform combines computer vision, weather intelligence, and multilingual AI assistance to simplify modern farming.
+An intelligent agriculture platform designed to support farmers with AI-driven crop management and decision support. The system combines computer vision, real-time weather data, and multilingual AI assistance to simplify modern farming.
 
 ### ✨ Key Features
 
-- 🌱 Crop Recommendation System
-- 🦠 Plant Disease Detection using AI
-- 🐛 Pest Identification through Computer Vision
-- 🌦️ Live Weather Forecast Integration
-- 💧 Fertilizer & Pesticide Suggestions
-- 🤖 AI Chatbot for Farming Guidance
-- 🌍 Multilingual Support
-- 📈 Personalized Farming Insights
+- 🌱 Crop recommendation support
+- 🦠 Plant disease detection using image input
+- 🐛 Pest identification using computer vision
+- 🌦️ Weather-based farming insights
+- 💧 Fertilizer and pesticide guidance
+- 🤖 AI chatbot for farmer assistance
+- 🌍 Multilingual support
+- 📈 Personalized crop care suggestions
+- 📱 Farmer-friendly responsive interface
 
 ### 🛠 Tech Stack
 
-`Python` • `React` • `Node.js` • `OpenCV` • `TensorFlow` • `REST APIs` • `MySQL`
-
-🔗 **Live Demo:** https://balaguru-portfolio.vercel.app/
+`Python` • `React` • `Node.js` • `Express` • `OpenCV` • `TensorFlow` • `REST APIs` • `MySQL` • `Weather API`
 
 ---
 
-## 🧠 Project Hub – AI Knowledge Repository
+## 🧠 Project Hub – AI Knowledge Repository System
 
-A centralized AI-powered platform that stores, organizes, and retrieves student project knowledge. It helps future developers understand previous projects, common mistakes, implementation strategies, and reusable resources using semantic search.
+A centralized AI-powered platform that stores, organizes, and retrieves student project knowledge. It helps students preserve project ideas, implementation details, common mistakes, resources, and reusable insights.
 
 ### ✨ Key Features
 
-- 📄 Intelligent Document Upload
-- 🔍 Semantic Search
-- 🧠 Knowledge Graph Integration
-- 📚 AI-based Project Recommendations
-- 📝 Mistake & Solution Repository
-- ⚡ Fast Context-Aware Search
-- 🔗 Project Relationship Mapping
+- 📄 Intelligent document ingestion
+- 🔍 Semantic search for project data
+- 🧠 Knowledge graph-based linking
+- 📚 AI-powered project insight retrieval
+- 📝 Mistake and solution repository
+- 🔗 Project relationship mapping
+- ⚡ Context-aware search results
+- 📂 Organized project knowledge storage
+- 🎓 Helps students reuse previous project learning
 
 ### 🛠 Tech Stack
 
-`Python` • `React` • `LLMs` • `Knowledge Graph` • `REST APIs`
+`Python` • `Generative AI` • `LLMs` • `Knowledge Graph` • `React` • `REST APIs`
 
 ---
 
 ## 🏥 Imaging Lab Report Explainer
 
-A healthcare-oriented application that transforms complex medical imaging reports into patient-friendly explanations without providing diagnosis or treatment. Built to improve communication between healthcare professionals and patients.
+A healthcare-focused system that simplifies complex imaging laboratory reports into easy-to-understand structured explanations. The aim is to help patients understand report meaning clearly without providing diagnosis, treatment, or medical advice.
 
 ### ✨ Key Features
 
-- 📑 Medical Report Upload
-- 🤖 AI-Powered Report Simplification
-- 🧾 Easy-to-Understand Explanations
-- 💬 Interactive AI Assistant
-- 🔒 Secure Backend APIs
-- 📂 Structured Report Generation
+- 📑 Imaging report processing
+- 🤖 AI-powered report simplification
+- 🧾 Patient-friendly explanation format
+- 💬 Interactive doubt-clearing assistant
+- 🔒 Backend API-based report generation
+- 📂 Structured documentation
+- ⚕️ Focuses only on meaning, not diagnosis
+- 🧠 LLM integration for explanation support
 
 ### 🛠 Tech Stack
 
-`Python` • `FastAPI` • `Flask` • `LLM API`
+`Python` • `FastAPI` • `Flask` • `Large Language Model API`
 
 ---
 
 ## 🎓 SharkByte – Smart Quiz & Assessment Platform
 
-A modern online assessment platform designed for educational institutions. It enables administrators to create quizzes, manage students, monitor results, and generate reports, while students can participate in assessments through a clean and interactive interface.
+A modern quiz and assessment platform designed for students and educational institutions. It helps admins create quizzes, manage students, track attempts, generate results, and provide a smooth online test experience.
 
 ### ✨ Key Features
 
-- 👨‍🏫 Admin Dashboard
-- 📝 Quiz Creation & Management
-- 👨‍🎓 Student Login System
-- 📊 Live Leaderboard
-- 📥 Excel Import & Export
-- 📈 Performance Analytics
-- 📱 Responsive UI
-- 🔐 Secure Authentication
+- 👨‍🏫 Admin dashboard
+- 👨‍🎓 Student login system
+- 📝 Quiz creation and management
+- 📊 Result tracking
+- 🏆 Scoreboard and leaderboard
+- 📥 Student bulk import
+- 📤 Excel export support
+- 🔐 Secure authentication
+- 📱 Responsive interface
+- ⚡ Fast and clean assessment workflow
 
 ### 🛠 Tech Stack
 
-`React` • `Node.js` • `Express` • `MongoDB` • `REST APIs`
+`React` • `Node.js` • `Express` • `MongoDB` • `REST APIs` • `Authentication`
 
 ---
 
 ## 🌐 Personal Portfolio
 
-A premium portfolio website highlighting my projects, technical skills, certifications, achievements, and development journey with modern animations and responsive design.
+A responsive developer portfolio designed to showcase my technical skills, projects, certifications, achievements, and development journey with a modern user interface.
 
 ### ✨ Highlights
 
-- 🎨 Premium Responsive Design
-- ⚡ Smooth Animations
-- 📂 Project Showcase
-- 🏆 Achievements Section
-- 📜 Certifications
-- 📱 Mobile Friendly
-- 🌐 SEO Optimized
+- 🎨 Premium responsive layout
+- ⚡ Smooth UI experience
+- 📂 Project showcase
+- 🏆 Achievements section
+- 📜 Certifications display
+- 📱 Mobile-friendly design
+- 🌐 Hosted on Vercel
+- 💼 Professional developer branding
 
 ### 🛠 Tech Stack
 
@@ -165,65 +171,43 @@ A premium portfolio website highlighting my projects, technical skills, certific
 
 🔗 **Portfolio:** https://balaguru-portfolio.vercel.app/
 
+---
+
 # 🏅 Certifications
 
-📜 TCS iON – Career Edge: Young Professional
-
-📜 IBM SkillsBuild – Data Analytics
-
-📜 Cisco Python Essentials
-
-📜 Oracle Cloud Infrastructure Foundations
-
-📜 Google Cloud Skills Boost
-
-📜 Salesforce Trailhead
-
-📜 Accenture Developer Program
-
-📜 Google Generative AI
+- 📜 TCS iON – Career Edge: Young Professional
+- 📜 IBM SkillsBuild – Data Analytics
+- 📜 Cisco Python Essentials
+- 📜 Oracle Cloud Infrastructure Foundations
+- 📜 Google Cloud Skills Boost
+- 📜 Salesforce Trailhead
+- 📜 Accenture Developer Program
+- 📜 Google Generative AI
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Leadership
 
-🥇 Top 5 Finalist – Smartathon 2026 (250+ Teams)
-
-🥈 2nd Prize – Debug the Code
-
-🥈 2nd Prize – Coding Puzzle
-
-🎤 Organizer – Tech Tonic Technical Event
-
-📢 Event Coordinator – Certification Awareness Program
-
-👨‍💻 Frontend Developer Intern – SwiftAnt IT Solutions
+- 🥇 Top 5 Finalist – Smartathon 2026 among 250+ teams
+- 🥈 2nd Prize – Debug the Code at Tech World Technical Event
+- 🥈 2nd Prize – Coding Puzzle at Techtrix
+- 🎤 Organizer – Tech Tonic college-level technical event
+- 📢 Event Coordinator – Certification Awareness Program
+- 👥 Member – The Institution of Engineers India Student Chapter
+- 💻 Frontend Developer Intern – SwiftAnt IT Solutions India Pvt. Ltd
+- 🚀 Hackathon Participant – Saveetha University 2025
 
 ---
 
-# 🎯 Currently Working On
+# 🎯 Current Focus
 
-🚀 Building AI-powered production-ready applications
-
-📚 Strengthening Data Structures & Algorithms
-
-🤖 Exploring Agentic AI & Generative AI
-
-⚙️ Developing scalable backend APIs
-
-💼 Preparing for Software Development & AI roles
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=balagurubalaguru579-ops&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balagurubalaguru579-ops&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 🤖 Building AI-powered real-world applications
+- 📚 Strengthening Data Structures and Algorithms
+- ⚙️ Developing scalable backend APIs
+- 🧠 Exploring Generative AI and Agentic AI
+- 🌐 Improving full-stack development skills
+- 💼 Preparing for Software Development and AI internship roles
+- 🚀 Creating production-ready software projects
 
 ---
 
@@ -247,7 +231,7 @@ A premium portfolio website highlighting my projects, technical skills, certific
 
 ---
 
-# 🌍 Let's Connect
+# 🌍 Connect With Me
 
 <p align="center">
 
@@ -289,9 +273,9 @@ A premium portfolio website highlighting my projects, technical skills, certific
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+### ⭐ Thanks for visiting my profile!
 
-I'm always open to collaborating on innovative software projects, AI research, open-source contributions, and exciting development opportunities.
+I'm always open to collaborating on AI projects, full-stack applications, open-source contributions, and innovative software ideas.
 
 **Let's build something impactful together! 🚀**
 
